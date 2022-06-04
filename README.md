@@ -1,4 +1,4 @@
-# <i>mytvapp</i> est une application <i>Vue.js</i> permettant de tout savoir sur vos séries préférées et ce grâce à l'API de <i>https://www.tvmaze.com</i>
+# <span style="font-size:6px"><i>mytvapp</i> est une application <i>Vue.js</i> permettant de tout savoir sur vos séries préférées et ce grâce à l'API de <i>https://www.tvmaze.com</i></span>
 
 ## Project setup
 ```
