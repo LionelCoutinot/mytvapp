@@ -1,7 +1,7 @@
 # mytvapp
 mytvapp est une application Vue.js permettant de tout savoir sur vos séries préférées et ce grâce à l'API de https://www.tvmaze.com
 <br />
-On peut regarder le fichier " <i>captures-ecran-mytvapp</i> " pour avoir une idée du rendu et des fonctionnalités.
+On peut regarder le fichier <i>captures-ecran-mytvapp</i>  pour avoir une idée du rendu et des fonctionnalités.
 
 ## Project setup
 ```
